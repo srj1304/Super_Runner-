@@ -1,4 +1,4 @@
-# My Super Mario Java 2D Game
+# My Super_Runner Game
 
 This is a full screen 2D Java game like super mario with some basic creatures and maps.
 
